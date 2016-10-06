@@ -7,3 +7,4 @@ Our Favorite movies:
 -Harry Potter og voldemort
 -Harry Potter er skemmtilegur :D
 -This was added from master-hulda branch
+-The branch movie
