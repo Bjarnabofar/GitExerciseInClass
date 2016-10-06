@@ -3,6 +3,7 @@ Our Favorite movies:
 -Legally Blonde
 -Death Race er best?
 -Mary Poppins
+<<<<<<< HEAD
+-Harry Potter 5
 -Harry Potter og voldemort
 -Harry Potter er skemmtilegur :D
-
